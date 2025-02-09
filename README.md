@@ -15,7 +15,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathmesh16&label=Profile%20views&color=0e75b6&style=flat" alt="prathmesh" /> </p>
 
-[![LinkedIn](https://img.shields.io/badge/-Prathmesh%20Jadhav-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yahia-sa/)](https://www.linkedin.com/in/yahia-sa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yahia-sa)](https://www.linkedin.com/in/yahia-sa/)
 [![Gmail Badge](https://img.shields.io/badge/-yahiasamir70@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yahiasamir70@gmail.com)](mailto:yahiasamir70@gmail.com)
 
 
