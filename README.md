@@ -38,8 +38,6 @@
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
   ![IOS](https://img.shields.io/badge/-IOS-333333?style=flat&logo=Apple)
-- 🎮 &nbsp;
-  ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
   
 
 <br/>
