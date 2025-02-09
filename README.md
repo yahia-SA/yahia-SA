@@ -1,27 +1,68 @@
-<h1 align="center">Hi 👋, I'm Yahia Samir</h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="300"/>
-</div>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
 
-<h3 align="center">As a software engineer, I bring a fresh perspective and a hunger for learning to every project. I specialize in Flutter and am passionate about creating elegant, efficient solutions that deliver an exceptional user experience. I'm excited to collaborate with more experienced developers and continue to grow my skills as a developer</h3>
+<h3> Hey there👋! I'm Yahia Samir</h2>
+<h2> Currently working as a Software Engineer </h2>
+
+## 👨🏻‍💻 &nbsp;About Me 
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studied Computer Science at Suez Canal University.
+- 💼 &nbsp; Learning about Mobile Application Development(Flutter and IOS).
+- 👨🏻‍💻 &nbsp; Freelancer 
+
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathmesh16&label=Profile%20views&color=0e75b6&style=flat" alt="prathmesh" /> </p>
+
+[![LinkedIn](https://img.shields.io/badge/-Prathmesh%20Jadhav-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yahia-sa/)](https://www.linkedin.com/in/yahia-sa/)
+[![Gmail Badge](https://img.shields.io/badge/-yahiasamir70@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yahiasamir70@gmail.com)](mailto:yahiasamir70@gmail.com)
 
 
-- 💬 Ask me about **Flutter**
+## 🛠 &nbsp;Tech Stack
 
-<h3 align="left">Connect with me:</h3>
+- 💻 &nbsp;
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 📱 &nbsp;
+  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+  ![IOS](https://img.shields.io/badge/-IOS-333333?style=flat&logo=Apple)
+- 🎮 &nbsp;
+  ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
+  
 
-<p>
-  <a href="https://linkedin.com/in/yahia-sa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amr-mahmoud-14b4aa168"/></a> 
-  <a href="mailto:yahiasamir70@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="AmrMahmoud"/></a> 
-  <a href="https://fb.com/IyahiaI" target="_blank"><img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" /></a>    
+<br/>
 
-</p>  
+## 📈 Stats
+
+![Prathmesh's github stats](https://github-readme-stats.vercel.app/api?username=prathmesh16&hide=["issues"]&show_icons=true&line_height=30)
+
+![Prathmesh's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh16&theme=buefy&layout=compact&langs_count=10)
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
----
+<!--
+**prathmesh16/prathmesh16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yahia-sa&theme=dark&background=000000)](https://git.io/streak-stats)
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
