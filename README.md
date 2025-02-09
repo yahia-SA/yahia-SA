@@ -11,9 +11,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <p>
-  <a href="https://linkedin.com/in/amr-mahmoud-14b4aa168" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amr-mahmoud-14b4aa168"/></a> 
-  <a href="mailto:3mrma7moud69@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="AmrMahmoud"/></a> 
-  <a href="https://fb.com/amr.mahmoud692" target="_blank"><img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" /></a>    
+  <a href="https://linkedin.com/in/yahia-sa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amr-mahmoud-14b4aa168"/></a> 
+  <a href="mailto:yahiasamir70@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="AmrMahmoud"/></a> 
+  <a href="https://fb.com/IyahiaI" target="_blank"><img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" /></a>    
 
 </p>  
 
